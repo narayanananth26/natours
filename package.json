@@ -4,7 +4,7 @@
   "description": "Natours app",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "author": "Ananth Narayan",
   "license": "ISC",
